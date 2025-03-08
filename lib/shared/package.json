@@ -27,7 +27,7 @@
     "diff": "^5.2.0",
     "isomorphic-fetch": "^3.0.0",
     "js-tiktoken": "^1.0.14",
-    "lexical": "^0.17.0",
+    "lexical": "^0.24.0",
     "lodash": "^4.17.21",
     "lru-cache": "^10.0.0",
     "ollama": "^0.5.1",
