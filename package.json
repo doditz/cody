@@ -48,9 +48,9 @@
     "@types/react": "18.2.79",
     "@types/react-dom": "18.2.25",
     "@vitejs/plugin-react": "^4.2.1",
-    "esbuild": "^0.18.20",
+    "esbuild": "^0.25.0",
     "fs-extra": "^11.2.0",
-    "happy-dom": "^14.3.10",
+    "happy-dom": "^15.10.2",
     "jsdom": "^22.1.0",
     "knip": "^5.27.4",
     "storybook": "^8.0.5",
@@ -58,8 +58,8 @@
     "stylelint-config-standard": "^34.0.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.5.4",
-    "vite": "^5.4.2",
-    "vitest": "^2.0.5"
+    "vite": "^5.4.19",
+    "vitest": "^2.1.9"
   },
   "dependencies": {
     "@openctx/client": "^0.0.29",
